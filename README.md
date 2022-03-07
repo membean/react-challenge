@@ -56,4 +56,4 @@ Please stick to using the built in Jest/Enzyme test tools for all your unit test
 
 ## Submission:
 
-Once you are finished, please push your cloned repo to your Github account _(i.e. https://github.com/YOUR_USERNAME/react-challenge)_ and email the URL to us at [brant@membean.com](brant@membean.com).
+Once you are finished, please push your cloned repo to your Github account _(i.e. https://github.com/YOUR_USERNAME/react-challenge)_ and email the URL to us at [ragav@membean.com](ragav@membean.com).
